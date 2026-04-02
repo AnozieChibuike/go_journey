@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://joeltodo.pythonanywhere.com/:path*",
+      "permanent": true
+    }
+  ]
+}
