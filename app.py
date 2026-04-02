@@ -207,8 +207,4 @@ def proxy(path):
     return response
 
 
-
-if __name__ == '__main__':
-    print("Reverse Proxy running on http://127.0.0.1:5000")
-    print("Visit http://127.0.0.1:5000 in your browser")
-    app.run(port=5000, debug=False)
+
